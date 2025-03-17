@@ -1,0 +1,11 @@
+ollama
+PyPDF2
+tqdm
+streamlit
+llama-index
+llama-cpp-python
+langchain
+llama-index-llms-llama-cpp
+langchain-community
+llama-index-embeddings-huggingface
+llama-index-embeddings-langchain
